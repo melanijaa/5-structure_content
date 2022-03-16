@@ -12,6 +12,7 @@ Design: https://cdn.discordapp.com/attachments/950296439051911178/95143246556889
 ## Project features
 
 -   Basic HTML
+-   Basic CSS
 
 ## Authors
 
